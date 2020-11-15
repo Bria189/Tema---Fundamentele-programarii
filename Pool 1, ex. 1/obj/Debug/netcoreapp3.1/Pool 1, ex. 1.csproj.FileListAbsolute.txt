@@ -1,0 +1,13 @@
+C:\C#\Bria189\Tema---Fundamentele-programarii\Pool 1, ex. 1\bin\Debug\netcoreapp3.1\Pool 1, ex. 1.exe
+C:\C#\Bria189\Tema---Fundamentele-programarii\Pool 1, ex. 1\bin\Debug\netcoreapp3.1\Pool 1, ex. 1.deps.json
+C:\C#\Bria189\Tema---Fundamentele-programarii\Pool 1, ex. 1\bin\Debug\netcoreapp3.1\Pool 1, ex. 1.runtimeconfig.json
+C:\C#\Bria189\Tema---Fundamentele-programarii\Pool 1, ex. 1\bin\Debug\netcoreapp3.1\Pool 1, ex. 1.runtimeconfig.dev.json
+C:\C#\Bria189\Tema---Fundamentele-programarii\Pool 1, ex. 1\bin\Debug\netcoreapp3.1\Pool 1, ex. 1.dll
+C:\C#\Bria189\Tema---Fundamentele-programarii\Pool 1, ex. 1\bin\Debug\netcoreapp3.1\Pool 1, ex. 1.pdb
+C:\C#\Bria189\Tema---Fundamentele-programarii\Pool 1, ex. 1\obj\Debug\netcoreapp3.1\Pool 1, ex. 1.csprojAssemblyReference.cache
+C:\C#\Bria189\Tema---Fundamentele-programarii\Pool 1, ex. 1\obj\Debug\netcoreapp3.1\Pool 1, ex. 1.AssemblyInfoInputs.cache
+C:\C#\Bria189\Tema---Fundamentele-programarii\Pool 1, ex. 1\obj\Debug\netcoreapp3.1\Pool 1, ex. 1.AssemblyInfo.cs
+C:\C#\Bria189\Tema---Fundamentele-programarii\Pool 1, ex. 1\obj\Debug\netcoreapp3.1\Pool 1, ex. 1.csproj.CoreCompileInputs.cache
+C:\C#\Bria189\Tema---Fundamentele-programarii\Pool 1, ex. 1\obj\Debug\netcoreapp3.1\Pool 1, ex. 1.dll
+C:\C#\Bria189\Tema---Fundamentele-programarii\Pool 1, ex. 1\obj\Debug\netcoreapp3.1\Pool 1, ex. 1.pdb
+C:\C#\Bria189\Tema---Fundamentele-programarii\Pool 1, ex. 1\obj\Debug\netcoreapp3.1\Pool 1, ex. 1.genruntimeconfig.cache
