@@ -1,0 +1,13 @@
+C:\C#\Bria189\Tema---Fundamentele-programarii\Ex lab incep\bin\Debug\netcoreapp3.1\Ex lab incep.exe
+C:\C#\Bria189\Tema---Fundamentele-programarii\Ex lab incep\bin\Debug\netcoreapp3.1\Ex lab incep.deps.json
+C:\C#\Bria189\Tema---Fundamentele-programarii\Ex lab incep\bin\Debug\netcoreapp3.1\Ex lab incep.runtimeconfig.json
+C:\C#\Bria189\Tema---Fundamentele-programarii\Ex lab incep\bin\Debug\netcoreapp3.1\Ex lab incep.runtimeconfig.dev.json
+C:\C#\Bria189\Tema---Fundamentele-programarii\Ex lab incep\bin\Debug\netcoreapp3.1\Ex lab incep.dll
+C:\C#\Bria189\Tema---Fundamentele-programarii\Ex lab incep\bin\Debug\netcoreapp3.1\Ex lab incep.pdb
+C:\C#\Bria189\Tema---Fundamentele-programarii\Ex lab incep\obj\Debug\netcoreapp3.1\Ex lab incep.csprojAssemblyReference.cache
+C:\C#\Bria189\Tema---Fundamentele-programarii\Ex lab incep\obj\Debug\netcoreapp3.1\Ex lab incep.AssemblyInfoInputs.cache
+C:\C#\Bria189\Tema---Fundamentele-programarii\Ex lab incep\obj\Debug\netcoreapp3.1\Ex lab incep.AssemblyInfo.cs
+C:\C#\Bria189\Tema---Fundamentele-programarii\Ex lab incep\obj\Debug\netcoreapp3.1\Ex lab incep.csproj.CoreCompileInputs.cache
+C:\C#\Bria189\Tema---Fundamentele-programarii\Ex lab incep\obj\Debug\netcoreapp3.1\Ex lab incep.dll
+C:\C#\Bria189\Tema---Fundamentele-programarii\Ex lab incep\obj\Debug\netcoreapp3.1\Ex lab incep.pdb
+C:\C#\Bria189\Tema---Fundamentele-programarii\Ex lab incep\obj\Debug\netcoreapp3.1\Ex lab incep.genruntimeconfig.cache
