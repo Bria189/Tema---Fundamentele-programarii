@@ -1,0 +1,16 @@
+C:\C#\Bria189\Tema---Fundamentele-programarii\WindowsFormsApp3\bin\Debug\netcoreapp3.1\WindowsFormsApp3.exe
+C:\C#\Bria189\Tema---Fundamentele-programarii\WindowsFormsApp3\bin\Debug\netcoreapp3.1\WindowsFormsApp3.deps.json
+C:\C#\Bria189\Tema---Fundamentele-programarii\WindowsFormsApp3\bin\Debug\netcoreapp3.1\WindowsFormsApp3.runtimeconfig.json
+C:\C#\Bria189\Tema---Fundamentele-programarii\WindowsFormsApp3\bin\Debug\netcoreapp3.1\WindowsFormsApp3.runtimeconfig.dev.json
+C:\C#\Bria189\Tema---Fundamentele-programarii\WindowsFormsApp3\bin\Debug\netcoreapp3.1\WindowsFormsApp3.dll
+C:\C#\Bria189\Tema---Fundamentele-programarii\WindowsFormsApp3\bin\Debug\netcoreapp3.1\WindowsFormsApp3.pdb
+C:\C#\Bria189\Tema---Fundamentele-programarii\WindowsFormsApp3\obj\Debug\netcoreapp3.1\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\C#\Bria189\Tema---Fundamentele-programarii\WindowsFormsApp3\obj\Debug\netcoreapp3.1\WindowsFormsApp3.AboutBox1.resources
+C:\C#\Bria189\Tema---Fundamentele-programarii\WindowsFormsApp3\obj\Debug\netcoreapp3.1\WindowsFormsApp3.Form1.resources
+C:\C#\Bria189\Tema---Fundamentele-programarii\WindowsFormsApp3\obj\Debug\netcoreapp3.1\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\C#\Bria189\Tema---Fundamentele-programarii\WindowsFormsApp3\obj\Debug\netcoreapp3.1\WindowsFormsApp3.AssemblyInfoInputs.cache
+C:\C#\Bria189\Tema---Fundamentele-programarii\WindowsFormsApp3\obj\Debug\netcoreapp3.1\WindowsFormsApp3.AssemblyInfo.cs
+C:\C#\Bria189\Tema---Fundamentele-programarii\WindowsFormsApp3\obj\Debug\netcoreapp3.1\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\C#\Bria189\Tema---Fundamentele-programarii\WindowsFormsApp3\obj\Debug\netcoreapp3.1\WindowsFormsApp3.dll
+C:\C#\Bria189\Tema---Fundamentele-programarii\WindowsFormsApp3\obj\Debug\netcoreapp3.1\WindowsFormsApp3.pdb
+C:\C#\Bria189\Tema---Fundamentele-programarii\WindowsFormsApp3\obj\Debug\netcoreapp3.1\WindowsFormsApp3.genruntimeconfig.cache
